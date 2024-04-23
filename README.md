@@ -1,7 +1,7 @@
 ## Next.js App Router Course - Starter
 
-Preview: https://nextjs-dashboard-wheat-ten.vercel.app
+This is a dashboard application created base on Next js course made by Vercel.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Preview
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+https://nextjs-dashboard-wheat-ten.vercel.app
